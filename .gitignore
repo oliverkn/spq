@@ -1,0 +1,8 @@
+
+venv/
+
+venv_osx/
+
+*/__pycache__/
+
+.idea/
